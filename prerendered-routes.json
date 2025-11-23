@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/dashboard-ui": {},
+    "/dashboard-ui/add-coin": {},
+    "/dashboard-ui/all": {},
+    "/dashboard-ui/overview": {},
+    "/dashboard-ui/upload": {}
+  }
+}
